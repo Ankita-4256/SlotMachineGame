@@ -37,3 +37,19 @@ body{
   border-radius: 20px;
   margin-top: 20px;
 }
+
+button{
+  text-align: center;
+    width: 147px;
+    height: 38px;
+    margin-left: 45%;
+    margin-top: 2%;
+    background-color: cornsilk;
+    font-size: 20px;
+    border: 5px solid rebeccapurple;
+    border-radius: 15px;
+}
+
+.number{
+  text-align: center;
+}
